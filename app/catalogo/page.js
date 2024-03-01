@@ -1,7 +1,7 @@
 import Filter from "./Filter";
 import Item from "./Item";
 
-export default function () {
+export default function page() {
     return (
         <div className="flex w-full h-[90vh] px-20 pt-20">
             <Filter/>
